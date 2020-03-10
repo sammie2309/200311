@@ -29,7 +29,7 @@ class ProductItems extends Component {
         <table className="table">
           <thead>
             <tr>
-              <th>Product Name</th>
+              <th>Product Name hjkshd</th>
               <th>Product Description</th>
               <th>Price</th>
               <th>Company</th>
